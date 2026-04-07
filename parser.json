@@ -1,9 +1,9 @@
 {
-  "lang": "desktop",
-  "location": null,
-  "parser_version": "v1.1.1",
   "generate": null,
   "generate_from_json": null,
   "url": "https://github.com/ValdezFOmar/tree-sitter-desktop",
-  "semver": true
+  "semver": true,
+  "lang": "desktop",
+  "location": null,
+  "parser_version": "v1.1.1"
 }
