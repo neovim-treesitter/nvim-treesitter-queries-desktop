@@ -1,6 +1,6 @@
 {
-  "lang": "desktop",
   "url": "https://github.com/ValdezFOmar/tree-sitter-desktop",
+  "lang": "desktop",
   "semver": true,
   "parser_version": "v1.1.1"
 }
